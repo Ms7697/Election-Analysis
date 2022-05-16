@@ -12,3 +12,9 @@ The Colorado Board of Elections has an election audit for the local congress cur
 * The winner, Diana DeGette received 73.8% of the total vote. Total number of votes he has was 272,892
 
 ## Election Audit
+
+## Resources 
+
+- Data Source: election_results.csv
+- Client requirements
+- Software: Python 3.7.7, Visual Studio Code, 1.47.3, Git 2.27
